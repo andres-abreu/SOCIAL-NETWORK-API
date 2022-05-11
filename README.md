@@ -14,7 +14,7 @@
 * This API can be used for a social-network-web-application.
 * Users are able to: share a thought or message, add or delete a friend, react to a friends thought or message, delete the reaction-message.
 
-## INSTALLATION/RUNNING-INSTRUCTIONS.
+## INSTALL/RUN-DIRECTIONS
 * npm install
 * npm install mongoose
 * npm isntall express
